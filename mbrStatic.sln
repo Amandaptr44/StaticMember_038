@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbrStatic", "mbrStatic\mbrStatic.vcxproj", "{C3106F61-E1D2-472A-A4A0-AF4AD348A445}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chainfunction", "chainfunction\chainfunction.vcxproj", "{9A815DDC-49C4-4168-81C7-69E359AD7122}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{C3106F61-E1D2-472A-A4A0-AF4AD348A445}.Release|x64.Build.0 = Release|x64
 		{C3106F61-E1D2-472A-A4A0-AF4AD348A445}.Release|x86.ActiveCfg = Release|Win32
 		{C3106F61-E1D2-472A-A4A0-AF4AD348A445}.Release|x86.Build.0 = Release|Win32
+		{9A815DDC-49C4-4168-81C7-69E359AD7122}.Debug|x64.ActiveCfg = Debug|x64
+		{9A815DDC-49C4-4168-81C7-69E359AD7122}.Debug|x64.Build.0 = Debug|x64
+		{9A815DDC-49C4-4168-81C7-69E359AD7122}.Debug|x86.ActiveCfg = Debug|Win32
+		{9A815DDC-49C4-4168-81C7-69E359AD7122}.Debug|x86.Build.0 = Debug|Win32
+		{9A815DDC-49C4-4168-81C7-69E359AD7122}.Release|x64.ActiveCfg = Release|x64
+		{9A815DDC-49C4-4168-81C7-69E359AD7122}.Release|x64.Build.0 = Release|x64
+		{9A815DDC-49C4-4168-81C7-69E359AD7122}.Release|x86.ActiveCfg = Release|Win32
+		{9A815DDC-49C4-4168-81C7-69E359AD7122}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
